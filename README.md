@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Luke
+- 👀 I’m interested in videogames and aggie sports
+- 🌱 I’m currently learning computer science at Texas A&M University
+- 📫 Reach me at lukeminglis@gmail.com
