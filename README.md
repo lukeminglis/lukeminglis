@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Luke Inglis
-- 👀 I’m interested in videogames, aggie sports, and coding
+- 👀 I’m interested in videogames, Aggie sports, and coding
 - 🌱 I’m currently studying Electrical Engineering with a minor in Computer Science at Texas A&M University
 - 📫 Reach me at lukeminglis@gmail.com
