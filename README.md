@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Luke Inglis!
 - 👀 Aside from the drive to code, I’m a big sports fan, love playing videogames, and I workout somewhat often.
-- 🤓 I’m currently studying Electrical Engineering with a minor in Computer Science at Texas A&M University.
+- 🤓 I’m currently studying Computer Science at Texas A&M University - Corpus Christi.
 - 🌱 I love utilizing Python to spend an hour automating a five minute task, or C++ if I want to do the same thing in three hours!
 - 📫 Feel free to contact me at lukeminglis@gmail.com
